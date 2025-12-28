@@ -1,0 +1,4 @@
+.idea/
+__pycache__/
+phone_records.db
+phone_record_ingest.log
